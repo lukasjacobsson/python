@@ -1,0 +1,7 @@
+siffra1 =int (input("mata in första siffran"))
+siffra2=int(input("mata in andra siffran"))
+print("gånger", siffra1 * siffra2)
+print("pluss",siffra1 + siffra2)
+print("minus",siffra1 - siffra2)
+print("delat",siffra1 / siffra2)
+print("procent",siffra1 / siffra2 *100)
